@@ -25,7 +25,7 @@ By combining the lightweight, scriptless folder architecture inspired by `runit`
 
 ### 📚 Documentation & Guides
 Detailed installation guides, real-hardware deployment instructions, and stage script templates can be found in our official project documentation:
-👉 **[Read the fasdinit Wiki (Coming Soon)](#)**
+👉 **[Read the fasdinit Wiki](https://github.com/Fasdeq13/fasdinit/wiki)**
 
 ---
 
@@ -51,4 +51,4 @@ Detailed installation guides, real-hardware deployment instructions, and stage s
 
 ### 📚 Документация и руководства
 Подробные инструкции по интеграции в собственный дистрибутив, примеры скриптов стадий и руководства по развертыванию на реальном железе доступны в нашей базе знаний:
-👉 **[Перейти в fasdinit Wiki (Ссылка появится позже)](#)**
+👉 **[Перейти в fasdinit Wiki](https://github.com/Fasdeq13/fasdinit/wiki)**
